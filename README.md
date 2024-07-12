@@ -1,4 +1,4 @@
 # Airbnb-New-User-Booking-Prediction
 
 ### Libraries & Requirements: 
-jupyter,pandas, sklearn, matplotlib, eaborn, joblib, keras, tensorflow, missingno, xgboost.
+jupyter,pandas, sklearn, matplotlib, seaborn, joblib, keras, tensorflow, missingno, xgboost.
